@@ -1,0 +1,3 @@
+* @team-lead
+*.js @front-end-team
+/test/* @qa-team
